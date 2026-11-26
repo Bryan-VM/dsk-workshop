@@ -1,0 +1,2 @@
+Halo, John.
+File ini dibuat menggunakan branch pribadi saya.
